@@ -1,0 +1,153 @@
+.header{
+	background: #3f4142;
+}
+.head{
+	width: 100%;
+	margin: 0 auto;
+}
+.wrapper{
+	text-align: center;
+	margin: 0 auto;
+}
+.btn{
+	margin: 0 auto;
+	border:none;
+	background: #d19600;
+	font-size: 20px;
+	color: white;
+	padding: 0px 28px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 10px;
+    text-shadow: 1px 1px black;
+}
+.head{
+	text-align: center;
+}
+.number{
+	padding-bottom: 10px;
+	margin-left: 10px;
+}
+.logo{
+	padding-top: 10px;
+	margin-left: 26px;
+}
+.inli{
+	display: inline-block;
+	margin-left: -15px;
+	margin-right: 10px;
+	margin-top: 10px;
+}
+.deco{
+	margin-left: 15px;
+}
+.deco a{
+	text-decoration: none;
+	color: white;
+	text-decoration: underline;
+}
+.yellow{
+	color: #f3af00;
+	font-size: 20px;
+	margin-left: 15px;
+}
+.icon{
+	margin-bottom: 10px;
+}
+.bg-txt{
+	background: #949ba3;
+	text-align: center;
+	color: #ffffff;
+}
+.h1{
+	font-size:45px;
+	padding-top: 30px;
+    padding-bottom: 10px;
+}
+.ter{
+	font-size: 22px;
+	padding-bottom: 30px;
+}
+.input{
+	display: block;
+	background-image: url(bg-input4.png);
+	text-align: center;
+	color: #ffffff;
+}
+input::-webkit-input-placeholder { color: black; }
+@media screen and (min-width:600px){
+.text-input{
+	display: inline-block;
+    padding-right: 50px;
+    vertical-align: text-bottom;
+}
+.txt-input{
+	color: #f3af00;
+	padding: 10px 0;
+	font-size: 25px;
+}
+.txt-input-two{
+	padding-bottom: 20px;
+	color: #ffffff;
+}
+.input-btn{
+	display: inline-block;
+	color: black;
+	padding-bottom: 20px;
+}
+.input-btn input{
+	color: black;
+	padding: 10px;
+}
+.btn-otp-one{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.btn-otp{
+	margin-bottom: 10px;
+}
+.otpra{
+	 padding: 11px 61px;
+}
+.bg-txt span{
+	display:block;
+	padding: 0;
+}
+}
+@media  screen and (min-width: 800px) {
+	.midle{
+		display: inline-block;
+		vertical-align: middle;
+	}
+	.btn{
+		margin-top: 0px;
+		padding: 5px 100px;
+		margin-left: 1.5%;
+		width: 50%;
+	}
+	.input-content{
+		padding: 10px 50px;
+	}
+	.text-input{
+	display: block;
+    padding-right: 50px;
+    padding-left: 40px;
+}
+.btn-otp-one{
+	margin-bottom: 10px;
+}
+.txt-input{
+	color: #ffffff;
+	padding: 10px 0;
+	font-size: 25px;
+
+}
+	.traktor{
+		height: 100%;
+		background-image: url(bg-tr.png);
+	}
+	.input{
+		float:right;
+	}
+}
+
